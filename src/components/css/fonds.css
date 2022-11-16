@@ -1,0 +1,28 @@
+.carr{
+background-image: url("../../assets/img/1/s2/BG_1.png");
+background-size: cover;
+background-repeat: no-repeat;
+    width: 100%;
+}
+.losm{
+    background-image: url("../../assets/img/1/s4/BGLM.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;    
+}
+ama{
+    color: #BC9626;
+}
+.arriba{
+    position: fixed;
+    top: 70pt;
+    right: 0;
+    background-image: url("../../assets/img/1/footer/t1.png");
+
+    
+}
+.asi{
+    position: absolute;
+    top: 0pt;
+    right: 0;
+}
